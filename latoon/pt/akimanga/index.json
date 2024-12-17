@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Akimang\u00e1",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.akimanga",
+    "apk": "tachiyomi-pt.akimanga-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Akimang\u00e1",
+        "lang": "pt-BR",
+        "id": "4815320064022038290",
+        "baseUrl": "https://akimanga.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

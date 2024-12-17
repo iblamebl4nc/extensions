@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Wicked Witch Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.wickedwitchscannovo",
+    "apk": "tachiyomi-pt.wickedwitchscannovo-v1.4.10.apk",
+    "lang": "pt-BR",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Wicked Witch Scan",
+        "lang": "pt-BR",
+        "id": "4671783341567859051",
+        "baseUrl": "https://wicked-witch-scan.com",
+        "versionId": 2
+      }
+    ]
+  }
+]

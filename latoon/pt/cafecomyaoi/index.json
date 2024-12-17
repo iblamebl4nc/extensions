@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Caf\u00e9 com Yaoi",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.cafecomyaoi",
+    "apk": "tachiyomi-pt.cafecomyaoi-v1.4.39.apk",
+    "lang": "pt-BR",
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Caf\u00e9 com Yaoi",
+        "lang": "pt-BR",
+        "id": "340055543197648554",
+        "baseUrl": "https://cafecomyaoi.com.br",
+        "versionId": 1
+      }
+    ]
+  }
+]

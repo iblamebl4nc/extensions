@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Boruto Explorer",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.borutoexplorer",
+    "apk": "tachiyomi-pt.borutoexplorer-v1.4.38.apk",
+    "lang": "pt-BR",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Boruto Explorer",
+        "lang": "pt-BR",
+        "id": "2962682340286299668",
+        "baseUrl": "https://leitor.borutoexplorer.com.br",
+        "versionId": 1
+      }
+    ]
+  }
+]

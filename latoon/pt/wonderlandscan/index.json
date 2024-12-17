@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Wonderland Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.wonderlandscan",
+    "apk": "tachiyomi-pt.wonderlandscan-v1.4.40.apk",
+    "lang": "pt-BR",
+    "code": 40,
+    "version": "1.4.40",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Wonderland Scan",
+        "lang": "pt-BR",
+        "id": "1110902633414269556",
+        "baseUrl": "https://wonderlandscan.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

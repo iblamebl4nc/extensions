@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Seita Celestial",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
+    "apk": "tachiyomi-pt.prismascans-v1.4.47.apk",
+    "lang": "pt-BR",
+    "code": 47,
+    "version": "1.4.47",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Seita Celestial",
+        "lang": "pt-BR",
+        "id": "8168108118738519332",
+        "baseUrl": "https://seitacelestial.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

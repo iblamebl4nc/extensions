@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Tyrant Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.tyrantscans",
+    "apk": "tachiyomi-pt.tyrantscans-v1.4.10.apk",
+    "lang": "pt-BR",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tyrant Scans",
+        "lang": "pt-BR",
+        "id": "5728464906916660509",
+        "baseUrl": "https://www.tyrantscans.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

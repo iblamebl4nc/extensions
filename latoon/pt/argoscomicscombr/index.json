@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Argos Comics.com.br",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.argoscomicscombr",
+    "apk": "tachiyomi-pt.argoscomicscombr-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Argos Comics.com.br",
+        "lang": "pt-BR",
+        "id": "8353950955580996081",
+        "baseUrl": "https://argoscomics.com.br",
+        "versionId": 1
+      }
+    ]
+  }
+]

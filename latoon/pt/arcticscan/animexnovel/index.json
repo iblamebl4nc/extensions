@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: AnimeXNovel",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.animexnovel",
+    "apk": "tachiyomi-pt.animexnovel-v1.4.10.apk",
+    "lang": "pt-BR",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AnimeXNovel",
+        "lang": "pt-BR",
+        "id": "8171774858955552264",
+        "baseUrl": "https://www.animexnovel.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

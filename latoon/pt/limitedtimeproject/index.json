@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Limited Time Project",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.limitedtimeproject",
+    "apk": "tachiyomi-pt.limitedtimeproject-v1.4.38.apk",
+    "lang": "pt-BR",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Limited Time Project",
+        "lang": "pt-BR",
+        "id": "2796582817878682756",
+        "baseUrl": "https://limitedtimeproject.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

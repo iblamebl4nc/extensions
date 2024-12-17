@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Diskus Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.diskusscan",
+    "apk": "tachiyomi-pt.diskusscan-v1.4.43.apk",
+    "lang": "pt-BR",
+    "code": 43,
+    "version": "1.4.43",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Diskus Scan",
+        "lang": "pt-BR",
+        "id": "5356614925537900346",
+        "baseUrl": "https://diskusscan.online",
+        "versionId": 2
+      }
+    ]
+  }
+]

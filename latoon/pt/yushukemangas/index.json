@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Yushuke Mangas",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.yushukemangas",
+    "apk": "tachiyomi-pt.yushukemangas-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Yushuke Mangas",
+        "lang": "pt-BR",
+        "id": "3777731363072900649",
+        "baseUrl": "https://yushukemangas.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

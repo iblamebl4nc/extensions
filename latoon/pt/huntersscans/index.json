@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Hunters Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
+    "apk": "tachiyomi-pt.huntersscans-v1.4.43.apk",
+    "lang": "pt-BR",
+    "code": 43,
+    "version": "1.4.43",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hunters Scan",
+        "lang": "pt-BR",
+        "id": "7310576253330700902",
+        "baseUrl": "https://hunterscomics.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

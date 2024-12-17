@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Rainbow Fairy Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.rainbowfairyscan",
+    "apk": "tachiyomi-pt.rainbowfairyscan-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Rainbow Fairy Scan",
+        "lang": "pt-BR",
+        "id": "2973274754955915526",
+        "baseUrl": "https://rainbowfairyscan.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

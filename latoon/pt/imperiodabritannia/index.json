@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Sagrado Imp\u00e9rio da Britannia",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.imperiodabritannia",
+    "apk": "tachiyomi-pt.imperiodabritannia-v1.4.39.apk",
+    "lang": "pt-BR",
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Sagrado Imp\u00e9rio da Britannia",
+        "lang": "pt-BR",
+        "id": "7355004027880350247",
+        "baseUrl": "https://imperiodabritannia.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

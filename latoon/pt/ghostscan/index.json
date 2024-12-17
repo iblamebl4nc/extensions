@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Ghost Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.ghostscan",
+    "apk": "tachiyomi-pt.ghostscan-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ghost Scan",
+        "lang": "pt-BR",
+        "id": "2150748053027323425",
+        "baseUrl": "https://ghostscan.com.br",
+        "versionId": 1
+      }
+    ]
+  }
+]

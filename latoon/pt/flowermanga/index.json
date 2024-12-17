@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: FlowerManga.net",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.flowermanga",
+    "apk": "tachiyomi-pt.flowermanga-v1.4.39.apk",
+    "lang": "pt-BR",
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FlowerManga.net",
+        "lang": "pt-BR",
+        "id": "2421010180391442293",
+        "baseUrl": "https://flowermanga.net",
+        "versionId": 1
+      }
+    ]
+  }
+]

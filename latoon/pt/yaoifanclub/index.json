@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Yaoi Fan Club",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.yaoifanclub",
+    "apk": "tachiyomi-pt.yaoifanclub-v1.4.10.apk",
+    "lang": "pt-BR",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Yaoi Fan Club",
+        "lang": "pt-BR",
+        "id": "3609380518472019202",
+        "baseUrl": "https://www.yaoifanclub.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

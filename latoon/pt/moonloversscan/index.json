@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: MoonLovers Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.moonloversscan",
+    "apk": "tachiyomi-pt.moonloversscan-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MoonLovers Scan",
+        "lang": "pt-BR",
+        "id": "5928343539095265237",
+        "baseUrl": "https://moonloversscan.com.br",
+        "versionId": 1
+      }
+    ]
+  }
+]

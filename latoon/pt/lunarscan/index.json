@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Lunar Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.lunarscan",
+    "apk": "tachiyomi-pt.lunarscan-v1.4.39.apk",
+    "lang": "pt-BR",
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lunar Scan",
+        "lang": "pt-BR",
+        "id": "5914813814432882097",
+        "baseUrl": "https://lunarrscan.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

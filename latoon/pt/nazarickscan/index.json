@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Nazarick Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.nazarickscan",
+    "apk": "tachiyomi-pt.nazarickscan-v1.4.9.apk",
+    "lang": "pt-BR",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nazarick Scan",
+        "lang": "pt-BR",
+        "id": "1251235374170808039",
+        "baseUrl": "https://nazarickscan.com.br",
+        "versionId": 1
+      }
+    ]
+  }
+]

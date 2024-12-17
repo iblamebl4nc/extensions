@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Taiy\u014d",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.taiyo",
+    "apk": "tachiyomi-pt.taiyo-v1.4.3.apk",
+    "lang": "pt-BR",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Taiy\u014d",
+        "lang": "pt-BR",
+        "id": "7387610647818309943",
+        "baseUrl": "https://taiyo.moe",
+        "versionId": 1
+      }
+    ]
+  }
+]

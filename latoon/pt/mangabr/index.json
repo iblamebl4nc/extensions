@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Manga BR",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangabr",
+    "apk": "tachiyomi-pt.mangabr-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga BR",
+        "lang": "pt-BR",
+        "id": "7274686836824763801",
+        "baseUrl": "https://mangabr.net",
+        "versionId": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Nirvana Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.nirvanascan",
+    "apk": "tachiyomi-pt.nirvanascan-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nirvana Scan",
+        "lang": "pt-BR",
+        "id": "3523132745001969749",
+        "baseUrl": "https://nirvanascan.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

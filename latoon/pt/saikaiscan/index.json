@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Saikai Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.saikaiscan",
+    "apk": "tachiyomi-pt.saikaiscan-v1.4.11.apk",
+    "lang": "pt-BR",
+    "code": 11,
+    "version": "1.4.11",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Saikai Scan",
+        "lang": "pt-BR",
+        "id": "273341846992513187",
+        "baseUrl": "https://saikaiscans.net",
+        "versionId": 1
+      }
+    ]
+  }
+]

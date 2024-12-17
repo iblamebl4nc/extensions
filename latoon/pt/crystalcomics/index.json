@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: CrystalComics",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.crystalcomics",
+    "apk": "tachiyomi-pt.crystalcomics-v1.4.38.apk",
+    "lang": "pt-BR",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Crystal Comics",
+        "lang": "pt-BR",
+        "id": "7207984508218165032",
+        "baseUrl": "https://crystalcomics.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

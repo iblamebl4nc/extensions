@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: L Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.lscans",
+    "apk": "tachiyomi-pt.lscans-v1.4.38.apk",
+    "lang": "pt-BR",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "L Scans",
+        "lang": "pt-BR",
+        "id": "5713813651918678286",
+        "baseUrl": "https://lscans.com",
+        "versionId": 3
+      }
+    ]
+  }
+]

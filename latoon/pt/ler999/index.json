@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Ler 999",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.ler999",
+    "apk": "tachiyomi-pt.ler999-v1.4.9.apk",
+    "lang": "pt-BR",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ler 999",
+        "lang": "pt-BR",
+        "id": "11864058740306611",
+        "baseUrl": "https://ler999.blogspot.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

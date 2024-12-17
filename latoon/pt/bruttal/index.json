@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Bruttal",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.bruttal",
+    "apk": "tachiyomi-pt.bruttal-v1.4.6.apk",
+    "lang": "pt-BR",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Bruttal",
+        "lang": "pt-BR",
+        "id": "501567080700867400",
+        "baseUrl": "https://originals.omelete.com.br/bruttal",
+        "versionId": 1
+      }
+    ]
+  }
+]

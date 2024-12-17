@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: F\u00eanix Manhwas",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.fenixmanhwas",
+    "apk": "tachiyomi-pt.fenixmanhwas-v1.4.10.apk",
+    "lang": "pt-BR",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "F\u00eanix Manhwas",
+        "lang": "pt-BR",
+        "id": "8731909849241292045",
+        "baseUrl": "https://fenixleitura.blogspot.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

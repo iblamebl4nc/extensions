@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Winter Sun",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.wintersun",
+    "apk": "tachiyomi-pt.wintersun-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Winter Sun",
+        "lang": "pt-BR",
+        "id": "7804277469602990299",
+        "baseUrl": "https://wintersunscan.xyz",
+        "versionId": 1
+      }
+    ]
+  }
+]

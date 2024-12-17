@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Kami Sama Explorer",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.kamisamaexplorer",
+    "apk": "tachiyomi-pt.kamisamaexplorer-v1.4.39.apk",
+    "lang": "pt-BR",
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Kami Sama Explorer",
+        "lang": "pt-BR",
+        "id": "5221484950287110636",
+        "baseUrl": "https://leitor.kamisama.com.br",
+        "versionId": 1
+      }
+    ]
+  }
+]

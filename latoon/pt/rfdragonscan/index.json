@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: RF Dragon Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.rfdragonscan",
+    "apk": "tachiyomi-pt.rfdragonscan-v1.4.9.apk",
+    "lang": "pt-BR",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "RF Dragon Scan",
+        "lang": "pt-BR",
+        "id": "3492404357721425345",
+        "baseUrl": "https://rfdragonscan.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

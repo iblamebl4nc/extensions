@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Manga Online Blog",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangaonlineblog",
+    "apk": "tachiyomi-pt.mangaonlineblog-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Online Blog",
+        "lang": "pt-BR",
+        "id": "3636158728504296715",
+        "baseUrl": "https://mangaonline.blog",
+        "versionId": 1
+      }
+    ]
+  }
+]

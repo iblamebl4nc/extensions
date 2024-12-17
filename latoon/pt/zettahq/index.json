@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: ZettaHQ",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.zettahq",
+    "apk": "tachiyomi-pt.zettahq-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ZettaHQ",
+        "lang": "pt-BR",
+        "id": "4655858297496198897",
+        "baseUrl": "https://zettahq.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

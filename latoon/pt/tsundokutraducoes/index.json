@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Tsundoku Tradu\u00e7\u00f5es",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.tsundokutraducoes",
+    "apk": "tachiyomi-pt.tsundokutraducoes-v1.4.39.apk",
+    "lang": "pt-BR",
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tsundoku Tradu\u00e7\u00f5es",
+        "lang": "pt-BR",
+        "id": "2091088265283814173",
+        "baseUrl": "https://tsundoku.com.br",
+        "versionId": 1
+      }
+    ]
+  }
+]

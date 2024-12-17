@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Kakusei Project",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.kakuseiproject",
+    "apk": "tachiyomi-pt.kakuseiproject-v1.4.38.apk",
+    "lang": "pt-BR",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Kakusei Project",
+        "lang": "pt-BR",
+        "id": "4352186290154944735",
+        "baseUrl": "https://kakuseiproject.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

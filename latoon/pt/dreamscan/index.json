@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Dream Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.dreamscan",
+    "apk": "tachiyomi-pt.dreamscan-v1.4.38.apk",
+    "lang": "pt-BR",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dream Scan",
+        "lang": "pt-BR",
+        "id": "2058412298484770949",
+        "baseUrl": "https://dreamscan.com.br",
+        "versionId": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Fleur Blanche",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.fleurblanche",
+    "apk": "tachiyomi-pt.fleurblanche-v1.4.41.apk",
+    "lang": "pt-BR",
+    "code": 41,
+    "version": "1.4.41",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Fleur Blanche",
+        "lang": "pt-BR",
+        "id": "2748000026130339026",
+        "baseUrl": "https://fbsquadx.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

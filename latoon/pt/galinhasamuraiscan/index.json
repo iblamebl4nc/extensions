@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Galinha Samurai Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.galinhasamuraiscan",
+    "apk": "tachiyomi-pt.galinhasamuraiscan-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Galinha Samurai Scan",
+        "lang": "pt-BR",
+        "id": "6629098298979987882",
+        "baseUrl": "https://galinhasamurai.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

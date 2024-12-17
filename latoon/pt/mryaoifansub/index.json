@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: MR Yaoi Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mryaoifansub",
+    "apk": "tachiyomi-pt.mryaoifansub-v1.4.38.apk",
+    "lang": "pt-BR",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MR Yaoi Fansub",
+        "lang": "pt-BR",
+        "id": "5391282948608391639",
+        "baseUrl": "https://mrbenne.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

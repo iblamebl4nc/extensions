@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Portal Yaoi",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.portalyaoi",
+    "apk": "tachiyomi-pt.portalyaoi-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Portal Yaoi",
+        "lang": "pt-BR",
+        "id": "3275945866985875190",
+        "baseUrl": "https://portalyaoi.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

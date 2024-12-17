@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Read Mangas",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.readmangas",
+    "apk": "tachiyomi-pt.readmangas-v1.4.30.apk",
+    "lang": "pt-BR",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Read Mangas",
+        "lang": "pt-BR",
+        "id": "7156283065607892957",
+        "baseUrl": "https://readmangas.org",
+        "versionId": 1
+      }
+    ]
+  }
+]

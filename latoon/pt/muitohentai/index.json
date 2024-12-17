@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Muito Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.muitohentai",
+    "apk": "tachiyomi-pt.muitohentai-v1.4.2.apk",
+    "lang": "pt-BR",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Muito Hentai",
+        "lang": "pt-BR",
+        "id": "1062606379654091909",
+        "baseUrl": "https://www.muitohentai.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Hikari Ga Nai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.hikariganai",
+    "apk": "tachiyomi-pt.hikariganai-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hikari Ga Nai",
+        "lang": "pt-BR",
+        "id": "8056665336522625752",
+        "baseUrl": "https://hikariganai.xyz",
+        "versionId": 2
+      }
+    ]
+  }
+]

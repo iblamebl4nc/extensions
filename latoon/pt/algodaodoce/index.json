@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Algod\u00e3o Doce",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.algodaodoce",
+    "apk": "tachiyomi-pt.algodaodoce-v1.4.38.apk",
+    "lang": "pt-BR",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Algod\u00e3o Doce",
+        "lang": "pt-BR",
+        "id": "8976659270314261457",
+        "baseUrl": "https://xn--algododoce-j5a.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

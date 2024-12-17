@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Yaoi Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.yaoicomics",
+    "apk": "tachiyomi-pt.yaoicomics-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Yaoi Comics",
+        "lang": "pt-BR",
+        "id": "4490140647146605230",
+        "baseUrl": "https://ycscan.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

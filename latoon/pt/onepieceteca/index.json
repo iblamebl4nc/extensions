@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: One Piece TECA",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.onepieceteca",
+    "apk": "tachiyomi-pt.onepieceteca-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "One Piece TECA",
+        "lang": "pt-BR",
+        "id": "8410680598481767598",
+        "baseUrl": "https://onepieceteca.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

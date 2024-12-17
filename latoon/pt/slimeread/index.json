@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: SlimeRead",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
+    "apk": "tachiyomi-pt.slimeread-v1.4.13.apk",
+    "lang": "pt-BR",
+    "code": 13,
+    "version": "1.4.13",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SlimeRead",
+        "lang": "pt-BR",
+        "id": "8209406708962970454",
+        "baseUrl": "https://slimeread.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

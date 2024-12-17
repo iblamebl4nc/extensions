@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Sinensis Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.sinensis",
+    "apk": "tachiyomi-pt.sinensis-v1.4.48.apk",
+    "lang": "pt-BR",
+    "code": 48,
+    "version": "1.4.48",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Sinensis Scan",
+        "lang": "pt-BR",
+        "id": "1096735163865907877",
+        "baseUrl": "https://sinensis.leitorweb.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

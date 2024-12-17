@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: ExHentai.net.br",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.exhentainetbr",
+    "apk": "tachiyomi-pt.exhentainetbr-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ExHentai.net.br",
+        "lang": "pt-BR",
+        "id": "1408140394859123923",
+        "baseUrl": "https://exhentai.net.br",
+        "versionId": 1
+      }
+    ]
+  }
+]

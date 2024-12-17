@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Bakai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.bakai",
+    "apk": "tachiyomi-pt.bakai-v1.4.5.apk",
+    "lang": "pt-BR",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Bakai",
+        "lang": "pt-BR",
+        "id": "1652448748031658277",
+        "baseUrl": "https://bakai.org",
+        "versionId": 1
+      }
+    ]
+  }
+]

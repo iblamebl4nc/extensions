@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Mundo Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mundohentai",
+    "apk": "tachiyomi-pt.mundohentai-v1.4.8.apk",
+    "lang": "pt-BR",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mundo Hentai",
+        "lang": "pt-BR",
+        "id": "141171756957474060",
+        "baseUrl": "https://mundohentaioficial.com",
+        "versionId": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: No Index Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.noindexscan",
+    "apk": "tachiyomi-pt.noindexscan-v1.4.38.apk",
+    "lang": "pt-BR",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "No Index Scan",
+        "lang": "pt-BR",
+        "id": "987786689720213769",
+        "baseUrl": "https://noindexscan.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

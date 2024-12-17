@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Black Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.blackscans",
+    "apk": "tachiyomi-pt.blackscans-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Black Scans",
+        "lang": "pt-BR",
+        "id": "7586741761598555494",
+        "baseUrl": "https://blackscans.site",
+        "versionId": 1
+      }
+    ]
+  }
+]

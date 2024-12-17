@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Neroxus",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.imperioscans",
+    "apk": "tachiyomi-pt.imperioscans-v1.4.40.apk",
+    "lang": "pt-BR",
+    "code": 40,
+    "version": "1.4.40",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Neroxus",
+        "lang": "pt-BR",
+        "id": "1369117541868504584",
+        "baseUrl": "https://neroxus.com.br",
+        "versionId": 1
+      }
+    ]
+  }
+]

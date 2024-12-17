@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Tradu\u00e7\u00f5es do Lipe",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.traducoesdolipe",
+    "apk": "tachiyomi-pt.traducoesdolipe-v1.4.9.apk",
+    "lang": "pt-BR",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tradu\u00e7\u00f5es do Lipe",
+        "lang": "pt-BR",
+        "id": "3650511144741653873",
+        "baseUrl": "https://traducoesdolipe.blogspot.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

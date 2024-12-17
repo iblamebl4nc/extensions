@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: GALAX Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.galaxscanlator",
+    "apk": "tachiyomi-pt.galaxscanlator-v1.4.9.apk",
+    "lang": "pt-BR",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "GALAX Scans",
+        "lang": "pt-BR",
+        "id": "5553519415877811746",
+        "baseUrl": "https://galaxscanlator.blogspot.com",
+        "versionId": 1
+      }
+    ]
+  }
+]

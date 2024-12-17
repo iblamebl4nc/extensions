@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tachiyomi: Guilda Tier Draw",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.guildatierdraw",
+    "apk": "tachiyomi-pt.guildatierdraw-v1.4.10.apk",
+    "lang": "pt-BR",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Guilda Tier Draw",
+        "lang": "pt-BR",
+        "id": "1064707676167186705",
+        "baseUrl": "https://www.guildatierdraw.top",
+        "versionId": 1
+      }
+    ]
+  }
+]
